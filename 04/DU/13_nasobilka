@@ -1,0 +1,6 @@
+print("Vypíšu ti násobilku do 4 \n")
+for sloupec in range(5):
+    for radek in range(5):
+        #for nasobek in range(1):
+               print(sloupec*radek, end=" ")
+    print('\n')
