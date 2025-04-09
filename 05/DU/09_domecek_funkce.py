@@ -1,4 +1,4 @@
-from turtle import forward, left, penup, pendown, speed, setpos, exitonclick
+from turtle import forward, left, penup, pendown, exitonclick
 from math import sqrt
 
 def vykresli_domecek(stena):
